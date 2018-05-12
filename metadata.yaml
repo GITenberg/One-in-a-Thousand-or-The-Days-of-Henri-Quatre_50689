@@ -1,9 +1,13 @@
 _repo: One-in-a-Thousand-or-The-Days-of-Henri-Quatre_50689
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Magnus, Laurie
     gutenberg_agent_id: '46044'
     url: http://www.gutenberg.org/2009/agents/46044
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50689#One-in-a-Thousand-or-The-Days-of-Henri-Quatre
 gutenberg_issued: '2015-12-14'
 gutenberg_type: Text
 identifiers:
